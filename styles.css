@@ -1,0 +1,42 @@
+body {
+    background-image: url(https://cdn.wallpapersafari.com/36/42/T0Wet7.jpg);
+}
+
+.top {
+    height: 10px;
+    background: linear-gradient(to right, rgb(95, 95, 168), rgb(35, 133, 165));
+    border-width: 5px;
+}
+
+.bottom {
+    height: 10px;
+    background: linear-gradient(to right, rgb(95, 95, 168), rgb(35, 133, 165));
+}
+
+img {
+    display: block;
+    border-radius: 50%;
+    height: 350px;
+    border-width: 5px;
+    border-style: groove;
+    margin: auto;
+    margin-top: 15px;
+    border-color: #9fafca;
+}
+
+.description {
+    font-family: 'Optima', 'Times New Roman';
+    color: #9fafca;
+    font-size: 23px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    height: 270px;
+    width: 600px;
+    padding-top: 10px;
+    background-color: rgb(55, 55, 106);
+    border-width: 5px;
+    border-style: inset;
+    border-color: #0f2d60;
+
+}
